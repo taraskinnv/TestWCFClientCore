@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\TestClientWCF\\TestClientWCF\\TestClientWCF.csproj": {}
+    "C:\\Users\\User\\Desktop\\GitHub\\TestWCFClientCore\\TestClientWCF\\TestClientWCF\\TestClientWCF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\TestClientWCF\\TestClientWCF\\TestClientWCF.csproj": {
+    "C:\\Users\\User\\Desktop\\GitHub\\TestWCFClientCore\\TestClientWCF\\TestClientWCF\\TestClientWCF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TestClientWCF\\TestClientWCF\\TestClientWCF.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\GitHub\\TestWCFClientCore\\TestClientWCF\\TestClientWCF\\TestClientWCF.csproj",
         "projectName": "TestClientWCF",
-        "projectPath": "C:\\Users\\User\\source\\repos\\TestClientWCF\\TestClientWCF\\TestClientWCF.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\GitHub\\TestWCFClientCore\\TestClientWCF\\TestClientWCF\\TestClientWCF.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\TestClientWCF\\TestClientWCF\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\GitHub\\TestWCFClientCore\\TestClientWCF\\TestClientWCF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,10 +41,6 @@
       "frameworks": {
         "netcoreapp2.0": {
           "dependencies": {
-            "Microsoft.Extensions.Configuration": {
-              "target": "Package",
-              "version": "[2.0.0, )"
-            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",

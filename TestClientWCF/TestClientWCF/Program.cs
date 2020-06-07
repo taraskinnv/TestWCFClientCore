@@ -1,6 +1,5 @@
 ﻿using System;
 using System.ServiceModel;
-using Microsoft.Extensions.Configuration;
 
 namespace TestClientWCF
 {
